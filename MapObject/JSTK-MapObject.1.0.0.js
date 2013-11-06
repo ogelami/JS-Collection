@@ -1,3 +1,6 @@
+//Requrie jQuery
+//Require Google maps api
+
 var mapObject;
 
 $(function()
